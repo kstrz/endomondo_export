@@ -1,4 +1,4 @@
-#This is a simple script to export trainings from Endomondo to Strava
+# This is a simple script to export trainings from Endomondo to Strava
 
 ## Requirements
 1. Python 3.7+
